@@ -1,0 +1,12 @@
+Bio:
+
+Krzysztof Romanowski
+
+He is Scala specialist @Virtuslab with over 6 years of comercial Scala experience. Currently Krzysztof is fouces on tools aroud Scala tooling such as IDEs, debugger or incremental compiler.
+
+
+Abstract:
+
+Scala: Ecosystem where developers flourish
+
+This talk is aimed as quick introduction to Scala and its ecosystem. It will start with Scala itself through web frameworks just to end at most exiting scala-related frameworks such as Akka and Spark. I will try to show you Scala that is simple and intuitive. I promise there will be no Hight Math (no Monads!) or 20 kinds of types involved (unless I am asked about it).  
